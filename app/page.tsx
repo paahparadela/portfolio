@@ -50,10 +50,9 @@ export default function Portfolio() {
             <div className="max-w-3xl mx-auto pt-4">
 
               <p className="text-muted-foreground leading-relaxed">
-                Skilled software engineer with over 10 years of experience, specializing in Java development and DevOps practices. 
-                I have led development teams, modernized legacy systems, and implemented scalable solutions using tools like Jenkins and GitHub. 
-                My expertise spans REST API development using Microservices architecture, the Spring Boot framework, Kafka workers, CI/CD pipelines, and Agile methodologies. 
-                I am also passionate about mentoring future tech talent through initiatives like TheFemTech community and actively support social projects that introduce technology to students.
+                Experienced software engineer with 10+ years in Java development, DevOps, and software testing. 
+                Skilled in building scalable REST APIs, Microservices, and CI/CD pipelines, with expertise in automated, performance, end-to-end, functional, and integration testing. 
+                Passionate about leading teams, mentoring future tech talent, and driving high-quality software delivery.
               </p>
             </div>
           </div>
