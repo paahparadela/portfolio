@@ -41,10 +41,9 @@ export default function Portfolio() {
             </div>
 
             <h1 className="text-2xl md:text-6xl font-bold text-balance">Paloma Paradela</h1>
-            <p className="text-xl md:text-2xl text-muted-foreground font-medium">Software Engineer</p>
+            <p className="text-xl md:text-2xl text-muted-foreground font-medium">Software Engineer | QA | Java | DevOps</p>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto text-pretty">
-              Test elegant solutions with clean code. Passionate about building scalable applications and exploring
-              cutting-edge technologies.
+              Crafting clean, well-tested code to build scalable applications and explore the latest technologies.
             </p>
 
             <div className="max-w-3xl mx-auto pt-4">
