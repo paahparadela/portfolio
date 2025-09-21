@@ -50,9 +50,10 @@ export default function Portfolio() {
             <div className="max-w-3xl mx-auto pt-4">
 
               <p className="text-muted-foreground leading-relaxed">
-                I'm a passionate software engineer with 5+ years of experience building web applications and distributed
-                systems. I love turning complex problems into simple, beautiful solutions. When I'm not coding, you'll
-                find me exploring new technologies, contributing to open source, or hiking in the mountains.
+                Skilled software engineer with over 10 years of experience, specializing in Java development and DevOps practices. 
+                I have led development teams, modernized legacy systems, and implemented scalable solutions using tools like Jenkins and GitHub. 
+                My expertise spans REST API development using Microservices architecture, the Spring Boot framework, Kafka workers, CI/CD pipelines, and Agile methodologies. 
+                I am also passionate about mentoring future tech talent through initiatives like TheFemTech community and actively support social projects that introduce technology to students.
               </p>
             </div>
           </div>
